@@ -202,5 +202,3 @@ Take this link back to the [landing page](https://aka.ms/agentshack) for the hac
 * [Code Sample: RecipeFinder](https://github.com/anujb-msft/communication-services-realtime-voice-agent)
 
 _Originally posted by @multispark in https://github.com/microsoft/AI_Agents_Hackathon/discussions/58_
-
-_Originally posted by @multispark in https://github.com/microsoft/AI_Agents_Hackathon/discussions/58_
