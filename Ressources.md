@@ -166,4 +166,41 @@ Take this link back to the [landing page](https://aka.ms/agentshack) for the hac
 * [Slides](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FVoiceRAG-TalkToYourData.pptx&wdOrigin=BROWSELINK)
 * [Code repository for VoiceRAG](https://github.com/Azure-Samples/aisearch-openai-rag-audio)
 
+## [Building Multi-Agent Apps on top of Azure PostgreSQL (with Arnaud/Mehrsa)](https://developer.microsoft.com/reactor/events/25330)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=3hjzG7HTDOM)
+* [Slides](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FBuilding%2520Multi-Agent%2520Apps%2520on%2520top%2520of%2520Azure%2520PostgreSQL.pptx&wdOrigin=BROWSELINK)
+* [Code repository](https://aka.ms/AAvpsxd)
+
+## [Agentic RAG with reflection (with Matt/Pamela)](https://developer.microsoft.com/reactor/events/25338)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=4QZNNJEpG-k)
+* [Slides](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FAgenticRAGWithReflection.pptx&wdOrigin=BROWSELINK)
+* [PR to add reflection](https://github.com/Azure-Samples/azure-search-openai-demo/pull/2510)
+* [Chainlit example](https://github.com/microsoft/rag-time/tree/main/Journey%20Bonus%20-%20Agentic%20RAG/sample)
+
+## [Multi-source data patterns for modern RAG apps (with Gary) - POSTPONED](https://developer.microsoft.com/reactor/events/25390)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=29sHjwjf9Ko)
+* [Slides](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FMulti-Source%2520Data%2520Agents%2520.pptx&wdOrigin=BROWSELINK)
+
+## [Engineering agents that Think, Act, and Govern themselves (with Henri/Thomas)](https://developer.microsoft.com/reactor/events/25486/)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=sjfVm-trJQ8) 
+
+## [Extending AI Agents with Azure Functions (with Nick/Eamon)](https://developer.microsoft.com/reactor/events/25387)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=rAouIMxsmtg) 
+* [Slides](https://github.com/microsoft/AI_Agents_Hackathon/blob/main/slides/Extending%20AI%20Agents%20with%20Azure%20Functions%20-%20Hackathon%202025.pptx)
+* Async Azure Function calling with Azure AI Agent service: [Python](https://github.com/Azure-Samples/azure-functions-ai-services-agent-python/), [.NET](https://github.com/Azure-Samples/azure-functions-ai-services-agent-dotnet)
+* MCP Server hosted on Azure Functions: [Python](https://github.com/Azure-Samples/remote-mcp-functions-python), [.NET](https://github.com/Azure-Samples/remote-mcp-functions-dotnet)
+* Real-time RAG with Azure Functions and expose through function tool: [Python](https://github.com/Azure-Samples/azure-functions-openai-aisearch-python), [.NET](https://github.com/Azure-Samples/azure-functions-openai-aisearch-dotnet)
+ 
+## [Build real time voice agents with Azure Communication Services (with Anuj)](https://developer.microsoft.com/reactor/events/25335)
+ 
+* [Recording on YouTube](https://www.youtube.com/watch?v=w1Tw95R3OtQ)
+* [Code Sample: RecipeFinder](https://github.com/anujb-msft/communication-services-realtime-voice-agent)
+
+_Originally posted by @multispark in https://github.com/microsoft/AI_Agents_Hackathon/discussions/58_
+
 _Originally posted by @multispark in https://github.com/microsoft/AI_Agents_Hackathon/discussions/58_
