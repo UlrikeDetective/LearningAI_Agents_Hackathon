@@ -71,7 +71,7 @@ Take this link back to the [landing page](https://aka.ms/agentshack) for the hac
 
 * [Recording on YouTube](https://www.youtube.com/watch?v=LflBM3ntUSY)
 * [Slides](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FAI%2520Agents%2520Hack%2520-%2520GitHub%2520Models%2520-%2520For%2520Sharing.pptx&wdOrigin=BROWSELINK)
-* [Code Samples](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/)
+###* [Code Samples](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/)
 
 ## [Multi-agent AI apps with Semantic Kernel and Azure Cosmos DB (with Abhishek/Sandeep/Sanjeetharan)](https://developer.microsoft.com/reactor/events/25455/)
 
