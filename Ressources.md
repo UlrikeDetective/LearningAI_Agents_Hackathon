@@ -202,4 +202,41 @@ Take this link back to the [landing page](https://aka.ms/agentshack) for the hac
 * [Recording on YouTube](https://www.youtube.com/watch?v=w1Tw95R3OtQ)
 * [Code Sample: RecipeFinder](https://github.com/anujb-msft/communication-services-realtime-voice-agent)
 
+## [Irresponsible AI Agents (with Rory)](https://developer.microsoft.com/reactor/events/25388)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=16b-IHsT9r0)
+* [Slides (PDF)](https://github.com/roryp/contentsafety/blob/main/Responsible_ai.pdf)
+* [Demo: LM Studio Local](https://github.com/roryp/lmstudiolocal)
+* [Demo: MCP with Content Safety](https://github.com/roryp/contentsafety)
+* [Docs: Learn more on Content Safety](https://aka.ms/responsible-content-safety)
+
+## [Securing AI agents on Azure (with Joylynn, Pamela)](https://developer.microsoft.com/reactor/events/25364)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=53Vw3Mm5-Ek)
+* [Slides (PPT)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FSecuring%2520AI%2520Agents%2520on%2520Azure-ForSharing.pptx&wdOrigin=BROWSELINK)
+* [Code sample: Built-in auth for Entra ID (Internal/External ID)](https://aka.ms/azai/chat)
+* [Code sample: Built-in auth for Entra ID (Bicep only, no External ID)](https://aka.ms/deepseek-python)
+* [Code sample: MSAL auth with Python](https://aka.ms/azai/chat/identity)
+* [Code sample: RAG chat with MSAL+Builtin](https://aka.ms/ragchat/acl)
+* [PR: RAG chat OBO flow](https://github.com/Azure-Samples/azure-search-openai-demo/pull/2515)
+
+## [The Art of AI Embodiment: Real-Time Interactive Experiences with Azure OpenAI GPT-4o and 3D Avatars (with Cedric, April)](https://developer.microsoft.com/reactor/events/25361)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=9h9ZAhlEQCw)
+* [Slides (PPT)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FAI_Agents_Hackathon%2Frefs%2Fheads%2Fmain%2Fslides%2FThe%2520Art%2520of%2520AI%2520Embodiment%2520-%2520Real-Time%2520Interactive%2520Experiences%2520with%2520Azure%2520OpenAI%2520GPT-4o.pptx&wdOrigin=BROWSELINK)
+* [Code sample: ThreeJS Avatar](https://github.com/cedricvidal/avatar-speech-rag)
+* [Code sample: April's Unity Avatar](http://github.com/aprilspeight/ai-avatar)
+
+## [Evaluating Agents (with April)](https://developer.microsoft.com/reactor/events/25369/)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=myF2PlcoPVk)
+* [Slides (PPT)](https://github.com/microsoft/AI_Agents_Hackathon/blob/main/slides/agenthack-evaluate-agents.pdf)
+* [AI Toolkit for Visual Studio Code](https://aka.ms/AIToolkit)
+* [Code sample:Risk & Safety Evaluation Samples](https://aka.ms/aistudio/eval-samples)
+* [Code sample:Intent resolution](https://aka.ms/intentresolution-sample)
+* [Code sample:Tool call accuracy](https://aka.ms/toolcallaccuracy-sample)
+* [Code sample: Task adherence](https://aka.ms/taskadherence-sample)
+* [Code sample: Response completeness](https://aka.ms/rescompleteness-sample)
+* [Code sample: End-to-end Azure AI agent evaluation](https://aka.ms/e2e-agent-eval-sample)
+
 _Originally posted by @multispark in https://github.com/microsoft/AI_Agents_Hackathon/discussions/58_
